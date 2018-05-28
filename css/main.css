@@ -1,0 +1,11 @@
+/*Global Styles*/
+h1 {
+  font-size: 100px;
+}
+p {
+  color: #6397b5;
+}
+.hero-container {
+  outline-color: #aaaa;
+  font-size: 7em;
+}
